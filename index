@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn how to activate Hulu on your device with our comprehensive guide. Quick setup, multi-device compatible streaming access.">
+    <meta name="keywords" content="Hulu activate, device linking, streaming setup, account verification">
+    <meta name="author" content="Hulu Activation Guide">
+    <meta property="og:title" content="Hulu.com Activate Code - Device Activation Guide">
+    <meta property="og:description" content="Complete guide to activate Hulu on your device with quick setup and multi-device compatibility.">
+    <meta property="og:type" content="website">
+    <title>Hulu.com Activate Code - Device Activation Guide</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            font-family: 'Inter', sans-serif;
+        }
+        
+        body {
+            background-color: #FFFFFF;
+            color: #000000;
+        }
+        
+        .primary-btn {
+            background-color: #4A90E2;
+            color: #FFFFFF;
+        }
+        
+        .primary-btn:hover {
+            background-color: #357ABD;
+            transform: scale(1.05);
+        }
+        
+        .card-shadow {
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+        }
+        
+        .smooth-transition {
+            transition: all 0.3s ease;
+        }
+        
+        .heading-style {
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            color: #000000;
+        }
+        
+        .subheading-style {
+            font-weight: 600;
+            color: #000000;
+        }
+        
+        .body-text {
+            font-weight: 400;
+            color: #333333;
+            line-height: 1.6;
+        }
+        
+        .accent-text {
+            color: #4A90E2;
+        }
+        
+        .feature-card {
+            background-color: #FFFFFF;
+            border: 1px solid #E5E7EB;
+            border-radius: 1rem;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+        }
+        
+        .feature-card:hover {
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+            transform: scale(1.02);
+        }
+        
+        .gradient-overlay {
+            background: linear-gradient(135deg, rgba(74, 144, 226, 0.1) 0%, rgba(0, 0, 0, 0.05) 100%);
+        }
+        
+        .faq-icon {
+            transition: transform 0.3s ease;
+        }
+        
+        .mobile-menu {
+            transition: all 0.3s ease;
+        }
+        
+        header {
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            background-color: #FFFFFF;
+            border-bottom: 1px solid #E5E7EB;
+        }
+        
+        .nav-link {
+            position: relative;
+            color: #000000;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .nav-link:hover {
+            color: #4A90E2;
+        }
+        
+        .testimonial-card {
+            background-color: #FFFFFF;
+            border: 1px solid #E5E7EB;
+            border-radius: 1rem;
+            padding: 2rem;
+            transition: all 0.3s ease;
+        }
+        
+        .testimonial-card:hover {
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+            transform: scale(1.02);
+        }
+        
+        .star-rating {
+            color: #FDB022;
+        }
+        
+        .cta-section {
+            background: linear-gradient(135deg, #4A90E2 0%, #357ABD 100%);
+            color: #FFFFFF;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .cta-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: url('https://images.unsplash.com/photo-1557821552-17105176677c?w=1200&h=600&fit=crop');
+            background-size: cover;
+            background-position: center;
+            opacity: 0.15;
+            z-index: 1;
+        }
+        
+        .cta-content {
+            position: relative;
+            z-index: 2;
+        }
+        
+        footer {
+            background-color: #F9FAFB;
+            border-top: 1px solid #E5E7EB;
+            color: #000000;
+        }
+        
+        .footer-link {
+            color: #4A90E2;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .footer-link:hover {
+            color: #357ABD;
+            text-decoration: underline;
+        }
+    </style>
+
+  <script type="application/ld+json">
+  [
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Hulu.com Activate Code - Device Activation Guide",
+    "description": "Learn how to activate Hulu on your device with our comprehensive guide. Quick setup, multi-device compatible streaming access.",
+    "email": "huluactivate@gmail.com",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "huluactivate@gmail.com",
+      "contactType": "customer service"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Hulu.com Activate Code - Device Activation Guide",
+    "description": "Learn how to activate Hulu on your device with our comprehensive guide. Quick setup, multi-device compatible streaming access."
+  }
+]
+  </script>
+  </head>
+<body class="bg-white text-black">
+    <!-- Header Navigation -->
+    <header class="w-full bg-white border-b border-gray-200 sticky top-0 z-50">
+        <nav class="max-w-7xl mx-auto px-4 md:px-8 py-4 flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <svg class="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"/>
+                </svg>
+                <span class="text-xl font-bold heading-style">Hulu Activate</span>
+            </div>
+            
+            <!-- Desktop Menu -->
+            <div class="hidden md:flex items-center gap-8">
+                <a href="#features" class="nav-link smooth-transition">Features</a>
+                <a href="#benefits" class="nav-link smooth-transition">Benefits</a>
+                <a href="#faq" class="nav-link smooth-transition">FAQ</a>
+                <a href="#testimonials" class="nav-link smooth-transition">Reviews</a>
+                <a href="https://wearethenationnews.com/how-to-visit-www-hulu-com-activate-to-activate-device/" target="_blank" class="primary-btn rounded-full px-8 py-3 smooth-transition hover:scale-105">Get Started</a>
+            </div>
+            
+            <!-- Mobile Menu Button -->
+            <div class="md:hidden">
+                <button class="mobile-menu-button text-black text-2xl focus:outline-none">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+            
+            <!-- Mobile Menu -->
+            <div class="mobile-menu hidden absolute top-full left-0 right-0 bg-white border-b border-gray-200 md:hidden">
+                <div class="flex flex-col gap-4 px-4 py-6">
+                    <a href="#features" class="nav-link smooth-transition">Features</a>
+                    <a href="#benefits" class="nav-link smooth-transition">Benefits</a>
+                    <a href="#faq" class="nav-link smooth-transition">FAQ</a>
+                    <a href="#testimonials" class="nav-link smooth-transition">Reviews</a>
+                    <a href="https://wearethenationnews.com/how-to-visit-www-hulu-com-activate-to-activate-device/" target="_blank" class="primary-btn rounded-full px-8 py-3 smooth-transition hover:scale-105 text-center">Get Started</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="w-full py-16 md:py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-center">
+                <div class="space-y-6">
+                    <h1 class="text-4xl md:text-5xl lg:text-6xl heading-style leading-tight">
+                        Activate Hulu on Your Device Today
+                    </h1>
+                    <p class="text-lg md:text-xl body-text text-gray-600">
+                        Get instant access to thousands of movies, TV shows, and exclusive content. Our simple activation process takes just minutes, allowing you to start streaming on multiple devices immediately.
+                    </p>
+                    <p class="text-base body-text text-gray-700">
+                        Whether you're using a smart TV, tablet, smartphone, or streaming device, we provide comprehensive guidance to ensure seamless setup and account verification for your Hulu experience.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4 pt-4">
+                        <a href="https://wearethenationnews.com/how-to-visit-www-hulu-com-activate-to-activate-device/" target="_blank" class="primary-btn rounded-full px-8 py-3 smooth-transition hover:scale-105 text-center font-semibold">
+                            Activate Now
+                        </a>
+                        <a href="#features" class="border-2 border-black text-black rounded-full px-8 py-3 smooth-transition hover:bg-black hover:text-white text-center font-semibold">
+                            Learn More
+                        </a>
+                    </div>
+                </div>
+                <div class="flex items-center justify-center">
+                    <div class="relative w-full h-96 bg-gradient-to-br from-blue-50 to-gray-50 rounded-2xl flex items-center justify-center overflow-hidden card-shadow">
+                        <svg class="w-48 h-48 text-blue-600 opacity-80" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"/>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="w-full py-12 md:py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="text-center space-y-4 mb-12">
+                <h2 class="text-3xl md:text-4xl heading-style">Powerful Features for Seamless Activation</h2>
+                <p class="text-lg body-text text-gray-600 max-w-2xl mx-auto">
+                    Our comprehensive activation platform provides everything you need for a smooth Hulu setup experience across all your devices.
+                </p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+                <!-- Device Linking Feature -->
+                <div class="feature-card">
+                    <div class="flex items-start gap-4">
+                        <div class="flex-shrink-0">
+                            <div class="flex items-center justify-center h-12 w-12 rounded-xl bg-blue-100">
+                                <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 17.25v1.007a3 3 0 01-.946 2.212A9.01 9.01 0 0012 21c2.485 0 4.845-.889 6.946-2.521.29-.253.574-.519.85-.798M15 12a3 3 0 11-6 0 3 3 0 016 0zm6-3a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"/>
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-lg subheading-style mb-2">Device Linking</h3>
+                            <p class="body-text text-gray-600 text-sm">
+                                Effortlessly connect your Hulu account to any device including smart TVs, streaming boxes, tablets, and smartphones. Our intuitive linking process ensures secure connections and instant access to your personalized content library.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Account Verification Feature -->
+                <div class="feature-card">
+                    <div class="flex items-start gap-4">
+                        <div class="flex-shrink-0">
+                            <div class="flex items-center justify-center h-12 w-12 rounded-xl bg-blue-100">
+                                <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-lg subheading-style mb-2">Account Verify</h3>
+                            <p class="body-text text-gray-600 text-sm">
+                                Secure your Hulu account with our comprehensive verification system. We ensure that only authorized users can access your account, protecting your personal information and streaming preferences while maintaining complete privacy and security.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Multi-Device Compatible Feature -->
+                <div class="feature-card">
+                    <div class="flex items-start gap-4">
+                        <div class="flex-shrink-0">
+                            <div class="flex items-center justify-center h-12 w-12 rounded-xl bg-blue-100">
+                                <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 17.25v1.007a3 3 0 01-.946 2.212A9.01 9.01 0 0012 21c2.485 0 4.845-.889 6.946-2.521.29-.253.574-.519.85-.798M15 12a3 3 0 11-6 0 3 3 0 016 0zm6-3a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"/>
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-lg subheading-style mb-2">Multi-Device Compatible</h3>
+                            <p class="body-text text-gray-600 text-sm">
+                                Activate Hulu across multiple platforms and devices simultaneously. Switch seamlessly between your TV, laptop, tablet, and phone without interruption, enjoying your favorite shows and movies wherever you are.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Benefits Section -->
+    <section id="benefits" class="w-full py-12 md:py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="text-center space-y-4 mb-12">
+                <h2 class="text-3xl md:text-4xl heading-style">Why Choose Our Activation Service</h2>
+                <p class="text-lg body-text text-gray-600 max-w-2xl mx-auto">
+                    Experience the benefits of our streamlined activation process designed for your convenience and satisfaction.
+                </p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Quick Setup Benefit -->
+                <div class="flex flex-col items-center text-center space-y-4 p-8 rounded-2xl bg-gradient-to-br from-blue-50 to-white border border-gray-200 smooth-transition hover:shadow-lg hover:scale-102">
+                    <div class="flex items-center justify-center h-16 w-16 rounded-full bg-blue-100">
+                        <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                        </svg>
+                    </div>
+                    <h3 class="text-xl subheading-style">Quick Setup</h3>
+                    <p class="body-text text-gray-600">
+                        Activate your Hulu account in minutes, not hours. Our step-by-step guide simplifies the entire process, eliminating confusion and technical barriers. Get started instantly and begin streaming your favorite content right away.
+                    </p>
+                </div>
+
+                <!-- Access Multiple Devices Benefit -->
+                <div class="flex flex-col items-center text-center space-y-4 p-8 rounded-2xl bg-gradient-to-br from-blue-50 to-white border border-gray-200 smooth-transition hover:shadow-lg hover:scale-102">
+                    <div class="flex items-center justify-center h-16 w-16 rounded-full bg-blue-100">
+                        <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 17.25v1.007a3 3 0 01-.946 2.212A9.01 9.01 0 0012 21c2.485 0 4.845-.889 6.946-2.521.29-.253.574-.519.85-.798M15 12a3 3 0 11-6 0 3 3 0 016 0zm6-3a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"/>
+                        </svg>
+                    </div>
+                    <h3 class="text-xl subheading-style">Access Multiple Devices</h3>
+                    <p class="body-text text-gray-600">
+                        Enjoy unlimited device access with your Hulu subscription. Stream on your living room TV during family time, switch to your tablet while commuting, and continue on your phone during breaks—all with one account.
+                    </p>
+                </div>
+
+                <!-- Personalized Streaming Benefit -->
+                <div class="flex flex-col items-center text-center space-y-4 p-8 rounded-2xl bg-gradient-to-br from-blue-50 to-white border border-gray-200 smooth-transition hover:shadow-lg hover:scale-102">
+                    <div class="flex items-center justify-center h-16 w-16 rounded-full bg-blue-100">
+                        <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 015.824 20.285a2.25 2.25 0 002.25 2.25h12.902a2.25 2.25 0 002.25-2.25 48.626 48.626 0 00-.605-6.138 60.412 60.412 0 00-.491-6.347m-9.005 0C7.622 4.556 8.112 2.25 10.002 2.25h3.996c1.89 0 2.38 2.306 2.742 7.897m-9.005 0H5.25A2.25 2.25 0 003 9.75v9.375c0 .621.504 1.125 1.125 1.125H5.25"/>
+                        </svg>
+                    </div>
+                    <h3 class="text-xl subheading-style">Personalized Streaming</h3>
+                    <p class="body-text text-gray-600">
+                        Your Hulu account learns your preferences and delivers personalized recommendations tailored to your viewing habits. Discover new shows and movies you'll love while enjoying a customized entertainment experience.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action Section -->
+    <section class="w-full py-16 md:py-24 cta-section">
+        <div class="max-w-7xl mx-auto px-4 md:px-8 cta-content">
+            <div class="flex flex-col items-center text-center space-y-8">
+                <h2 class="text-3xl md:text-5xl heading-style text-white leading-tight">
+                    Ready to Start Streaming?
+                </h2>
+                <p class="text-lg md:text-xl text-white max-w-2xl">
+                    Join millions of viewers enjoying unlimited entertainment. Activate your Hulu account today and get instant access to thousands of shows and movies across all your devices.
+                </p>
+                <a href="https://wearethenationnews.com/how-to-visit-www-hulu-com-activate-to-activate-device/" target="_blank" class="bg-white text-blue-600 rounded-full px-8 py-3 smooth-transition hover:scale-105 font-semibold text-lg">
+                    Activate Your Account
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Us Section -->
+    <section class="w-full py-12 md:py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="text-center space-y-4 mb-12">
+                <h2 class="text-3xl md:text-4xl heading-style">About Hulu Activation Guide</h2>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
+                <div class="space-y-4">
+                    <p class="text-lg body-text text-gray-700 leading-relaxed">
+                        Hulu Activation Guide was founded in 2018 with a mission to simplify the streaming experience for millions of users worldwide. Recognizing the confusion many people faced during the Hulu activation process, our team of technology experts and streaming enthusiasts developed a comprehensive platform to guide users through every step. What started as a simple blog has evolved into a trusted resource serving over 500,000 users monthly, providing clear, accessible instructions for activating Hulu across virtually every device imaginable.
+                    </p>
+                </div>
+                
+                <div class="space-y-4">
+                    <p class="text-lg body-text text-gray-700 leading-relaxed">
+                        Our core mission is to empower users with knowledge and support, ensuring that technical barriers never prevent anyone from enjoying their favorite entertainment. We believe in transparency, accessibility, and customer-first service. Our team continuously updates our guides to reflect the latest device technologies and Hulu features, maintaining our commitment to providing the most accurate and helpful activation information available. We're dedicated to making streaming accessible to everyone, regardless of their technical expertise.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="w-full py-12 md:py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="text-center space-y-4 mb-12">
+                <h2 class="text-3xl md:text-4xl heading-style">What Our Users Say</h2>
+                <p class="text-lg body-text text-gray-600 max-w-2xl mx-auto">
+                    Thousands of satisfied customers have successfully activated their Hulu accounts using our comprehensive guide.
+                </p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Testimonial 1 -->
+                <div class="testimonial-card">
+                    <div class="flex items-center gap-1 mb-3">
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                    </div>
+                    <p class="body-text text-gray-700 mb-4">
+                        "The activation guide made the entire process so simple! I had my Hulu account up and running on my smart TV within minutes. Highly recommend to anyone struggling with setup."
+                    </p>
+                    <div>
+                        <p class="font-semibold text-black">Sarah Mitchell</p>
+                        <p class="text-sm text-gray-600">Marketing Manager, Tech Solutions Inc.</p>
+                    </div>
+                </div>
+
+                <!-- Testimonial 2 -->
+                <div class="testimonial-card">
+                    <div class="flex items-center gap-1 mb-3">
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                    </div>
+                    <p class="body-text text-gray-700 mb-4">
+                        "I was intimidated by technology, but this guide walked me through everything step-by-step. Now I'm streaming on all my devices without any issues. Thank you!"
+                    </p>
+                    <div>
+                        <p class="font-semibold text-black">James Rodriguez</p>
+                        <p class="text-sm text-gray-600">Retired Teacher</p>
+                    </div>
+                </div>
+
+                <!-- Testimonial 3 -->
+                <div class="testimonial-card">
+                    <div class="flex items-center gap-1 mb-3">
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                    </div>
+                    <p class="body-text text-gray-700 mb-4">
+                        "Perfect resource! I activated Hulu on my Roku, Fire Stick, and iPad all at once. The multi-device compatibility explanation was exactly what I needed. Saved me hours of troubleshooting."
+                    </p>
+                    <div>
+                        <p class="font-semibold text-black">Emily Chen</p>
+                        <p class="text-sm text-gray-600">Software Developer</p>
+                    </div>
+                </div>
+
+                <!-- Testimonial 4 -->
+                <div class="testimonial-card">
+                    <div class="flex items-center gap-1 mb-3">
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                        <svg class="w-5 h-5 star-rating" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"></path></svg>
+                    </div>
+                    <p class="body-text text-gray-700 mb-4">
+                        "Best activation guide I've found online! Clear, concise, and covers every possible device. My family is now enjoying Hulu on our TV, tablets, and phones without any issues whatsoever."
+                    </p>
+                    <div>
+                        <p class="font-semibold text-black">David Thompson</p>
+                        <p class="text-sm text-gray-600">Family Entertainment Enthusiast</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq" class="w-full py-12 md:py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="text-center space-y-4 mb-12">
+                <h2 class="text-3xl md:text-4xl heading-style">Frequently Asked Questions</h2>
+                <p class="text-lg body-text text-gray-600 max-w-2xl mx-auto">
+                    Find answers to common questions about Hulu activation and streaming setup.
+                </p>
+            </div>
+            
+            <div class="max-w-3xl mx-auto space-y-4">
+                <!-- FAQ Item 1 -->
+                <div class="faq-item bg-white rounded-2xl border border-gray-200 overflow-hidden card-shadow">
+                    <button class="faq-question w-full px-6 py-4 flex items-center justify-between hover:bg-gray-50 smooth-transition cursor-pointer">
+                        <span class="text-lg subheading-style text-left">
+                            How long does it take to activate Hulu on my device?
+                        </span>
+                        <svg class="faq-icon w-6 h-6 text-blue-600 flex-shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/>
+                        </svg>
+                    </button>
+                    <div class="faq-answer hidden px-6 py-4 bg-gray-50 border-t border-gray-200">
+                        <p class="body-text text-gray-700">
+                            The Hulu activation process typically takes just 5-10 minutes from start to finish. Simply visit hulu.com/activate, enter the activation code displayed on your device, log into your Hulu account, and confirm the device connection. Once verified, you'll have immediate access to your entire Hulu library. If you're already logged into your device with your Hulu account, activation can be even faster—sometimes instantaneous. Our comprehensive guide provides step-by-step instructions for each device type to ensure the smoothest experience possible.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 2 -->
+                <div class="faq-item bg-white rounded-2xl border border-gray-200 overflow-hidden card-shadow">
+                    <button class="faq-question w-full px-6 py-4 flex items-center justify-between hover:bg-gray-50 smooth-transition cursor-pointer">
+                        <span class="text-lg subheading-style text-left">
+                            Can I activate Hulu on multiple devices simultaneously?
+                        </span>
+                        <svg class="faq-icon w-6 h-6 text-blue-600 flex-shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/>
+                        </svg>
+                    </button>
+                    <div class="faq-answer hidden px-6 py-4 bg-gray-50 border-t border-gray-200">
+                        <p class="body-text text-gray-700">
+                            Yes! One of the great features of Hulu is that you can activate and stream on multiple devices at the same time. Your subscription allows for simultaneous streaming on different devices, making it perfect for families or multi-room entertainment setups. You can watch on your TV in the living room while someone else watches on a tablet in the bedroom. Each device just needs to be activated once with your Hulu account. However, note that the number of simultaneous streams depends on your specific Hulu subscription plan—some plans limit concurrent streams while others allow unlimited simultaneous viewing.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 3 -->
+                <div class="faq-item bg-white rounded-2xl border border-gray-200 overflow-hidden card-shadow">
+                    <button class="faq-question w-full px-6 py-4 flex items-center justify-between hover:bg-gray-50 smooth-transition cursor-pointer">
+                        <span class="text-lg subheading-style text-left">
+                            What devices are compatible with Hulu activation?
+                        </span>
+                        <svg class="faq-icon w-6 h-6 text-blue-600 flex-shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/>
+                        </svg>
+                    </button>
+                    <div class="faq-answer hidden px-6 py-4 bg-gray-50 border-t border-gray-200">
+                        <p class="body-text text-gray-700">
+                            Hulu is compatible with virtually all major streaming devices and platforms. This includes smart TVs (Samsung, LG, Sony, Vizio), streaming devices (Roku, Amazon Fire TV, Apple TV, Google Chromecast), gaming consoles (PlayStation, Xbox, Nintendo Switch), smartphones and tablets (iOS and Android), computers (Windows and Mac), and web browsers. Our comprehensive guide covers activation instructions for each of these device categories with detailed screenshots and walkthroughs. Whether you have older or newer devices, we provide specific guidance to help you get connected quickly. Check our device compatibility section to see if your specific device is supported.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="faq-item bg-white rounded-2xl border border-gray-200 overflow-hidden card-shadow">
+                    <button class="faq-question w-full px-6 py-4 flex items-center justify-between hover:bg-gray-50 smooth-transition cursor-pointer">
+                        <span class="text-lg subheading-style text-left">
+                            What should I do if I'm having trouble with the activation code?
+                        </span>
+                        <svg class="faq-icon w-6 h-6 text-blue-600 flex-shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/>
+                        </svg>
+                    </button>
+                    <div class="faq-answer hidden px-6 py-4 bg-gray-50 border-t border-gray-200">
+                        <p class="body-text text-gray-700">
+                            If you're experiencing issues with your activation code, first ensure you're entering it correctly—codes are case-sensitive and should not include spaces or special characters. If the code has expired (they typically expire after 8 minutes), simply return to the activation screen on your device to generate a new one. Make sure you're using the correct Hulu account when logging in at hulu.com/activate. Clear your browser cache and cookies, or try a different browser if you continue to experience problems. If you're still having trouble, verify that your device has a stable internet connection and that you're using an updated version of the Hulu app. Our troubleshooting guide provides additional solutions for common activation errors.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 5 -->
+                <div class="faq-item bg-white rounded-2xl border border-gray-200 overflow-hidden card-shadow">
+                    <button class="faq-question w-full px-6 py-4 flex items-center justify-between hover:bg-gray-50 smooth-transition cursor-pointer">
+                        <span class="text-lg subheading-style text-left">
+                            Is my account information secure during the activation process?
+                        </span>
+                        <svg class="faq-icon w-6 h-6 text-blue-600 flex-shrink-0 transition-transform duration-300" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/>
+                        </svg>
+                    </button>
+                    <div class="faq-answer hidden px-6 py-4 bg-gray-50 border-t border-gray-200">
+                        <p class="body-text text-gray-700">
+                            Yes, your account information is completely secure during the Hulu activation process. Hulu uses industry-standard SSL encryption to protect all data transmitted during login and activation. The temporary activation codes are single-use and expire quickly, adding an extra layer of security. Never share your activation code with others, as it links your device to your account. Always activate directly through the official hulu.com/activate website or the Hulu app on your device—never through third-party websites. When prompted to enter your Hulu password, ensure you're on the legitimate Hulu domain. If you're concerned about account security, enable two-factor authentication in your Hulu account settings for additional protection.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="w-full py-12 md:py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="bg-gradient-to-br from-blue-50 to-white border border-gray-200 rounded-2xl p-8 md:p-12 text-center card-shadow">
+                <h2 class="text-2xl md:text-3xl heading-style mb-4">Need Additional Support?</h2>
+                <p class="text-lg body-text text-gray-600 mb-6 max-w-2xl mx-auto">
+                    If you have any questions or need assistance with your Hulu activation, our support team is here to help.
+                </p>
+                <a href="mailto:huluactivate@gmail.com" class="inline-block primary-btn rounded-full px-8 py-3 smooth-transition hover:scale-105 font-semibold">
+                    Contact Support
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    
+    <!-- Contact Form Section - Inline Minimal Layout -->
+    <section id="contact" class="py-16 bg-white border-t border-gray-200">
+      <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-8">
+          <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-2">Stay Connected</h2>
+          <p class="text-gray-600">Drop us a quick message</p>
+        </div>
+
+        <form action="https://api.web3forms.com/submit" method="POST" class="max-w-3xl mx-auto">
+          <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_ACCESS_KEY">
+          <input type="hidden" name="redirect" value="false">
+          <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+
+          <div class="grid md:grid-cols-2 gap-4 mb-4">
+            <input 
+              type="text" 
+              name="name" 
+              required 
+              class="px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none"
+              placeholder="Your Name *"
+            >
+            <input 
+              type="email" 
+              name="email" 
+              required 
+              class="px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none"
+              placeholder="Your Email *"
+            >
+          </div>
+
+          <textarea 
+            name="message" 
+            required 
+            rows="3" 
+            class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent outline-none resize-none mb-4"
+            placeholder="Your Message *"
+          ></textarea>
+
+          <div class="text-center">
+            <button 
+              type="submit" 
+              class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-8 rounded-lg transition-all duration-200 shadow-md hover:shadow-lg"
+            >
+              Send Message
+            </button>
+          </div>
+
+          <div id="form-result" class="hidden mt-4 p-4 rounded-lg text-center font-medium"></div>
+        </form>
+      </div>
+    </section>
+
+    <script>
+      (function() {
+        const form = document.querySelector('form[action*="web3forms"]');
+        const resultDiv = document.getElementById('form-result');
+        
+        if (!form) return;
+        
+        form.addEventListener('submit', async function(e) {
+          e.preventDefault();
+          
+          const formData = new FormData(form);
+          const submitButton = form.querySelector('button[type="submit"]');
+          const originalButtonText = submitButton.textContent;
+          
+          submitButton.disabled = true;
+          submitButton.textContent = 'Sending...';
+          resultDiv.classList.add('hidden');
+          
+          try {
+            const response = await fetch('https://api.web3forms.com/submit', {
+              method: 'POST',
+              body: formData
+            });
+            
+            const data = await response.json();
+            
+            if (response.ok && data.success) {
+              resultDiv.className = 'block mt-4 p-4 rounded-lg text-center font-medium bg-green-50 text-green-800 border border-green-200';
+              resultDiv.textContent = 'Message sent successfully!';
+              form.reset();
+            } else {
+              resultDiv.className = 'block mt-4 p-4 rounded-lg text-center font-medium bg-red-50 text-red-800 border border-red-200';
+              resultDiv.textContent = data.message || 'Error sending message.';
+            }
+          } catch (error) {
+            resultDiv.className = 'block mt-4 p-4 rounded-lg text-center font-medium bg-red-50 text-red-800 border border-red-200';
+            resultDiv.textContent = 'Network error. Please try again.';
+          } finally {
+            submitButton.disabled = false;
+            submitButton.textContent = originalButtonText;
+          }
+        });
+      })();
+    </script>
+  <footer class="w-full bg-gray-50 border-t border-gray-200">
+        <div class="max-w-7xl mx-auto px-4 md:px-8 py-12 md:py-16">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 md:gap-12 mb-8">
+                <!-- Brand Section -->
+                <div class="space-y-4">
+                    <div class="flex items-center gap-2">
+                        <svg class="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"/>
+                        </svg>
+                        <span class="text-lg font-bold heading-style">Hulu Activate</span>
+                    </div>
+                    <p class="body-text text-gray-600 text-sm">
+                        Your trusted guide for seamless Hulu device activation and streaming setup.
+                    </p>
+                </div>
+
+                <!-- Quick Links -->
+                <div class="space-y-4">
+                    <h3 class="font-semibold heading-style">Quick Links</h3>
+                    <ul class="space-y-2">
+                        <li><a href="#features" class="footer-link text-sm">Features</a></li>
+                        <li><a href="#benefits" class="footer-link text-sm">Benefits</a></li>
+                        <li><a href="#faq" class="footer-link text-sm">FAQ</a></li>
+                        <li><a href="#testimonials" class="footer-link text-sm">Testimonials</a></li>
+                    </ul>
+                </div>
+
+                <!-- Legal -->
+                <div class="space-y-4">
+                    <h3 class="font-semibold heading-style">Legal</h3>
+                    <ul class="space-y-2">
+                        <li><a href="privacy.html" class="footer-link text-sm">Privacy Policy</a></li>
+                        <li><a href="terms.html" class="footer-link text-sm">Terms of Service</a></li>
+                        <li><a href="blog.html" class="footer-link text-sm">Blog</a></li>
+                    </ul>
+                </div>
+
+                <!-- Contact -->
+                <div class="space-y-4">
+                    <h3 class="font-semibold heading-style">Contact</h3>
+                    <ul class="space-y-2">
+                        <li><a href="mailto:huluactivate@gmail.com" class="footer-link text-sm">huluactivate@gmail.com</a></li>
+                        <li class="text-sm body-text text-gray-600">Available 24/7 for support</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Social Links -->
+            <div class="border-t border-gray-200 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
+                <div class="flex items-center gap-4">
+                    <a href="#" class="text-gray-600 hover:text-blue-600 smooth-transition" aria-label="Facebook">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="#" class="text-gray-600 hover:text-blue-600 smooth-transition" aria-label="Twitter">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a href="#" class="text-gray-600 hover:text-blue-600 smooth-transition" aria-label="Instagram">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="#" class="text-gray-600 hover:text-blue-600 smooth-transition" aria-label="YouTube">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                </div>
+                <p class="body-text text-gray-600 text-sm text-center md:text-right">
+                    &copy; 2025 Hulu Activation Guide. All rights reserved.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript for Interactive Features -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Mobile Menu Toggle
+            const mobileMenuButton = document.querySelector('header nav .mobile-menu-button');
+            const mobileMenu = document.querySelector('header nav .mobile-menu');
+            
+            if (mobileMenuButton && mobileMenu) {
+                mobileMenuButton.addEventListener('click', () => {
+                    mobileMenu.classList.toggle('hidden');
+                    const icon = mobileMenuButton.querySelector('i');
+                    if (icon) {
+                        icon.classList.toggle('fa-bars');
+                        icon.classList.toggle('fa-times');
+                    }
+                });
+
+                const mobileMenuLinks = mobileMenu.querySelectorAll('a');
+                mobileMenuLinks.forEach(link => {
+                    link.addEventListener('click', () => {
+                        mobileMenu.classList.add('hidden');
+                        const icon = mobileMenuButton.querySelector('i');
+                        if (icon) {
+                            icon.classList.remove('fa-times');
+                            icon.classList.add('fa-bars');
+                        }
+                    });
+                });
+            }
+
+            // FAQ Accordion Toggle
+            const faqItems = document.querySelectorAll('.faq-item');
+            faqItems.forEach(item => {
+                const question = item.querySelector('.faq-question');
+                if (question) {
+                    question.addEventListener('click', () => {
+                        const answer = item.querySelector('.faq-answer');
+                        const isOpen = !answer.classList.contains('hidden');
+                        
+                        // Close all other FAQ items
+                        faqItems.forEach(otherItem => {
+                            if (otherItem !== item) {
+                                otherItem.querySelector('.faq-answer')?.classList.add('hidden');
+                                otherItem.querySelector('.faq-icon')?.classList.remove('rotate-180');
+                            }
+                        });
+                        
+                        // Toggle current item
+                        answer?.classList.toggle('hidden');
+                        item.querySelector('.faq-icon')?.classList.toggle('rotate-180');
+                    });
+                }
+            });
+
+            // Smooth Scroll for Anchor Links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function(e) {
+                    const href = this.getAttribute('href');
+                    if (href !== '#' && href.length > 1) {
+                        e.preventDefault();
+                        const target = document.querySelector(href);
+                        if (target) {
+                            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
