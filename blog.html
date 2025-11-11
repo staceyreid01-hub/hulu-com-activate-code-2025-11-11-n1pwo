@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore our comprehensive blog on Hulu activation, streaming guides, and device setup tutorials. Learn everything you need to know about activating and optimizing your Hulu experience.">
+    <meta name="keywords" content="Hulu blog, activation guide, streaming tips, device setup, Hulu tutorials">
+    <meta name="author" content="Hulu Activation Guide">
+    <meta property="og:title" content="Hulu Activation Blog - Streaming Guides & Device Setup">
+    <meta property="og:description" content="Discover in-depth articles about Hulu activation, streaming on multiple devices, and maximizing your entertainment experience.">
+    <meta property="og:type" content="website">
+    <title>Hulu Activation Blog - Streaming Guides & Device Setup</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            font-family: 'Inter', sans-serif;
+        }
+        
+        body {
+            background-color: #FFFFFF;
+            color: #000000;
+        }
+        
+        .primary-btn {
+            background-color: #4A90E2;
+            color: #FFFFFF;
+        }
+        
+        .primary-btn:hover {
+            background-color: #357ABD;
+            transform: scale(1.05);
+        }
+        
+        .card-shadow {
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+        }
+        
+        .smooth-transition {
+            transition: all 0.3s ease;
+        }
+        
+        .heading-style {
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            color: #000000;
+        }
+        
+        .subheading-style {
+            font-weight: 600;
+            color: #000000;
+        }
+        
+        .body-text {
+            font-weight: 400;
+            color: #333333;
+            line-height: 1.6;
+        }
+        
+        .accent-text {
+            color: #4A90E2;
+        }
+        
+        .feature-card {
+            background-color: #FFFFFF;
+            border: 1px solid #E5E7EB;
+            border-radius: 1rem;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+        }
+        
+        .feature-card:hover {
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+            transform: scale(1.02);
+        }
+        
+        .gradient-overlay {
+            background: linear-gradient(135deg, rgba(74, 144, 226, 0.1) 0%, rgba(0, 0, 0, 0.05) 100%);
+        }
+        
+        .faq-icon {
+            transition: transform 0.3s ease;
+        }
+        
+        .mobile-menu {
+            transition: all 0.3s ease;
+        }
+        
+        header {
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            background-color: #FFFFFF;
+            border-bottom: 1px solid #E5E7EB;
+        }
+        
+        .nav-link {
+            position: relative;
+            color: #000000;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .nav-link:hover {
+            color: #4A90E2;
+        }
+        
+        .testimonial-card {
+            background-color: #FFFFFF;
+            border: 1px solid #E5E7EB;
+            border-radius: 1rem;
+            padding: 2rem;
+            transition: all 0.3s ease;
+        }
+        
+        .testimonial-card:hover {
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+            transform: scale(1.02);
+        }
+        
+        .star-rating {
+            color: #FDB022;
+        }
+        
+        .cta-section {
+            background: linear-gradient(135deg, #4A90E2 0%, #357ABD 100%);
+            color: #FFFFFF;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .cta-section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-image: url('https://images.unsplash.com/photo-1557821552-17105176677c?w=1200&h=600&fit=crop');
+            background-size: cover;
+            background-position: center;
+            opacity: 0.15;
+            z-index: 1;
+        }
+        
+        .cta-content {
+            position: relative;
+            z-index: 2;
+        }
+        
+        footer {
+            background-color: #F9FAFB;
+            border-top: 1px solid #E5E7EB;
+            color: #000000;
+        }
+        
+        .footer-link {
+            color: #4A90E2;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .footer-link:hover {
+            color: #357ABD;
+            text-decoration: underline;
+        }
+
+        .blog-card {
+            background-color: #FFFFFF;
+            border: 1px solid #E5E7EB;
+            border-radius: 1rem;
+            padding: 2rem;
+            transition: all 0.3s ease;
+        }
+
+        .blog-card:hover {
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+            transform: scale(1.02);
+        }
+
+        .blog-date {
+            color: #4A90E2;
+            font-size: 0.875rem;
+            font-weight: 600;
+        }
+
+        .blog-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #000000;
+            margin: 1rem 0;
+            line-height: 1.4;
+        }
+
+        .blog-excerpt {
+            color: #666666;
+            font-size: 1rem;
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+        }
+
+        .read-more-link {
+            color: #4A90E2;
+            font-weight: 600;
+            text-decoration: none;
+            transition: color 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .read-more-link:hover {
+            color: #357ABD;
+        }
+    </style>
+</head>
+<body class="bg-white text-black">
+    <!-- Header Navigation -->
+    <header class="w-full bg-white border-b border-gray-200 sticky top-0 z-50">
+        <nav class="max-w-7xl mx-auto px-4 md:px-8 py-4 flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <a href="https://staceyreid01-hub.github.io/hulu-com-activate-code-2025-11-11-n1pwo" class="flex items-center gap-2">
+                    <svg class="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"/>
+                    </svg>
+                    <span class="text-xl font-bold heading-style">Hulu Activate</span>
+                </a>
+            </div>
+            
+            <!-- Desktop Menu -->
+            <div class="hidden md:flex items-center gap-8">
+                <a href="https://staceyreid01-hub.github.io/hulu-com-activate-code-2025-11-11-n1pwo" class="nav-link smooth-transition">← Back</a>
+            </div>
+            
+            <!-- Mobile Menu Button -->
+            <div class="md:hidden">
+                <button class="mobile-menu-button text-black text-2xl focus:outline-none">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+            
+            <!-- Mobile Menu -->
+            <div class="mobile-menu hidden absolute top-full left-0 right-0 bg-white border-b border-gray-200 md:hidden">
+                <div class="flex flex-col gap-4 px-4 py-6">
+                    <a href="https://staceyreid01-hub.github.io/hulu-com-activate-code-2025-11-11-n1pwo" class="nav-link smooth-transition">← Back</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Blog Hero Section -->
+    <section class="w-full py-16 md:py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="space-y-6">
+                <h1 class="text-4xl md:text-5xl lg:text-6xl heading-style leading-tight">
+                    Our Blog
+                </h1>
+                <p class="text-lg md:text-xl body-text text-gray-600 max-w-3xl">
+                    Welcome to the Hulu Activation Guide Blog—your comprehensive resource for everything related to streaming, device activation, and entertainment optimization. Our expert team regularly publishes in-depth articles, step-by-step tutorials, troubleshooting guides, and industry insights to help you maximize your Hulu experience across all your devices.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Blog Post Section -->
+    <section class="w-full py-12 md:py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="mb-12">
+                <h2 class="text-2xl md:text-3xl heading-style mb-8">Featured Article</h2>
+            </div>
+            
+            <div class="blog-card card-shadow">
+                <div class="blog-date">
+                    <i class="fas fa-calendar-alt mr-2"></i>Published on November 11, 2025
+                </div>
+                <h3 class="blog-title">
+                    Complete Guide to Hulu Activation on All Devices: Step-by-Step Instructions
+                </h3>
+                <p class="blog-excerpt">
+                    Activating Hulu across your devices is straightforward once you understand the process. This comprehensive guide covers activation on all platforms—smart TVs, streaming devices, mobile phones, gaming consoles, and web browsers. The standard process involves obtaining an activation code from your device, visiting hulu.com/activate, signing in with your credentials, and entering the code. Common issues like expired codes or incorrect entries are easily resolved. The guide addresses device-specific instructions, security considerations, multi-device management, and simultaneous streaming limits. With proper troubleshooting knowledge and understanding your subscription tier's capabilities, you'll seamlessly activate Hulu and optimize your streaming experience across your entire entertainment ecosystem.
+                </p>
+                <a href="https://staceyreid01-hub.github.io/hulu-com-activate-code-2025-11-11-n1pwo/blog/complete-guide-to-hulu-activation-on-all-devices-s.html" class="read-more-link">
+                    Read Full Article <i class="fas fa-arrow-right"></i>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Blog Content Section -->
+    <section class="w-full py-12 md:py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="mb-12">
+                <h2 class="text-2xl md:text-3xl heading-style mb-8">Latest Articles</h2>
+                <p class="body-text text-gray-600 max-w-2xl">
+                    Explore our collection of detailed guides and articles covering every aspect of Hulu activation and streaming optimization.
+                </p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Placeholder for Future Blog Posts -->
+                <div class="blog-card border-2 border-dashed border-gray-300 flex items-center justify-center min-h-64">
+                    <div class="text-center">
+                        <svg class="w-16 h-16 text-gray-300 mx-auto mb-4" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.75a.75.75 0 110-1.5.75.75 0 010 1.5zM12 12.75a.75.75 0 110-1.5.75.75 0 010 1.5zM12 18.75a.75.75 0 110-1.5.75.75 0 010 1.5z"/>
+                        </svg>
+                        <p class="text-gray-500 font-medium">More articles coming soon</p>
+                        <p class="text-gray-400 text-sm mt-2">Check back regularly for new content</p>
+                    </div>
+                </div>
+
+                <div class="blog-card border-2 border-dashed border-gray-300 flex items-center justify-center min-h-64">
+                    <div class="text-center">
+                        <svg class="w-16 h-16 text-gray-300 mx-auto mb-4" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.75a.75.75 0 110-1.5.75.75 0 010 1.5zM12 12.75a.75.75 0 110-1.5.75.75 0 010 1.5zM12 18.75a.75.75 0 110-1.5.75.75 0 010 1.5z"/>
+                        </svg>
+                        <p class="text-gray-500 font-medium">More articles coming soon</p>
+                        <p class="text-gray-400 text-sm mt-2">Check back regularly for new content</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Blog Categories Section -->
+    <section class="w-full py-12 md:py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="text-center space-y-4 mb-12">
+                <h2 class="text-3xl md:text-4xl heading-style">Blog Categories</h2>
+                <p class="text-lg body-text text-gray-600 max-w-2xl mx-auto">
+                    Browse articles by topic to find exactly what you're looking for.
+                </p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+                <!-- Device Activation Category -->
+                <div class="feature-card">
+                    <div class="flex items-start gap-4">
+                        <div class="flex-shrink-0">
+                            <div class="flex items-center justify-center h-12 w-12 rounded-xl bg-blue-100">
+                                <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 17.25v1.007a3 3 0 01-.946 2.212A9.01 9.01 0 0012 21c2.485 0 4.845-.889 6.946-2.521.29-.253.574-.519.85-.798M15 12a3 3 0 11-6 0 3 3 0 016 0zm6-3a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0z"/>
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-lg subheading-style mb-2">Device Activation</h3>
+                            <p class="body-text text-gray-600 text-sm">
+                                Comprehensive guides for activating Hulu on smart TVs, streaming devices, mobile phones, gaming consoles, and web browsers with detailed step-by-step instructions.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Troubleshooting Category -->
+                <div class="feature-card">
+                    <div class="flex items-start gap-4">
+                        <div class="flex-shrink-0">
+                            <div class="flex items-center justify-center h-12 w-12 rounded-xl bg-blue-100">
+                                <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-lg subheading-style mb-2">Troubleshooting</h3>
+                            <p class="body-text text-gray-600 text-sm">
+                                Solutions to common activation issues including expired codes, login problems, device compatibility issues, and account verification errors.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Streaming Tips Category -->
+                <div class="feature-card">
+                    <div class="flex items-start gap-4">
+                        <div class="flex-shrink-0">
+                            <div class="flex items-center justify-center h-12 w-12 rounded-xl bg-blue-100">
+                                <svg class="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 015.824 20.285a2.25 2.25 0 002.25 2.25h12.902a2.25 2.25 0 002.25-2.25 48.626 48.626 0 00-.605-6.138 60.412 60.412 0 00-.491-6.347m-9.005 0C7.622 4.556 8.112 2.25 10.002 2.25h3.996c1.89 0 2.38 2.306 2.742 7.897m-9.005 0H5.25A2.25 2.25 0 003 9.75v9.375c0 .621.504 1.125 1.125 1.125H5.25"/>
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-lg subheading-style mb-2">Streaming Tips</h3>
+                            <p class="body-text text-gray-600 text-sm">
+                                Expert advice on optimizing your streaming experience, managing multiple devices, understanding subscription tiers, and maximizing entertainment value.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action Section -->
+    <section class="w-full py-16 md:py-24 cta-section">
+        <div class="max-w-7xl mx-auto px-4 md:px-8 cta-content">
+            <div class="flex flex-col items-center text-center space-y-8">
+                <h2 class="text-3xl md:text-5xl heading-style text-white leading-tight">
+                    Ready to Activate Hulu?
+                </h2>
+                <p class="text-lg md:text-xl text-white max-w-2xl">
+                    Use our comprehensive guides to activate your Hulu account today and start streaming your favorite shows and movies across all your devices.
+                </p>
+                <a href="https://staceyreid01-hub.github.io/hulu-com-activate-code-2025-11-11-n1pwo" class="bg-white text-blue-600 rounded-full px-8 py-3 smooth-transition hover:scale-105 font-semibold text-lg">
+                    Back to Activation Guide
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter Section -->
+    <section class="w-full py-12 md:py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 md:px-8">
+            <div class="bg-gradient-to-br from-blue-50 to-white border border-gray-200 rounded-2xl p-8 md:p-12 text-center card-shadow">
+                <h2 class="text-2xl md:text-3xl heading-style mb-4">Stay Updated</h2>
+                <p class="text-lg body-text text-gray-600 mb-6 max-w-2xl mx-auto">
+                    Subscribe to receive the latest blog posts, activation tips, and streaming guides directly to your inbox.
+                </p>
+                <form class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
+                    <input 
+                        type="email" 
+                        placeholder="Enter your email" 
+                        class="flex-1 px-4 py-3 border border-gray-300 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-600"
+                        required
+                    >
+                    <button type="submit" class="primary-btn rounded-full px-8 py-3 smooth-transition hover:scale-105 font-semibold whitespace-nowrap">
+                        Subscribe
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="w-full bg-gray-50 border-t border-gray-200">
+        <div class="max-w-7xl mx-auto px-4 md:px-8 py-12 md:py-16">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 md:gap-12 mb-8">
+                <!-- Brand Section -->
+                <div class="space-y-4">
+                    <div class="flex items-center gap-2">
+                        <svg class="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"/>
+                        </svg>
+                        <span class="text-lg font-bold heading-style">Hulu Activate</span>
+                    </div>
+                    <p class="body-text text-gray-600 text-sm">
+                        Your trusted guide for seamless Hulu device activation and streaming setup.
+                    </p>
+                </div>
+
+                <!-- Quick Links -->
+                <div class="space-y-4">
+                    <h3 class="font-semibold heading-style">Quick Links</h3>
+                    <ul class="space-y-2">
+                        <li><a href="https://staceyreid01-hub.github.io/hulu-com-activate-code-2025-11-11-n1pwo" class="footer-link text-sm">Home</a></li>
+                        <li><a href="#" class="footer-link text-sm">Blog</a></li>
+                        <li><a href="https://staceyreid01-hub.github.io/hulu-com-activate-code-2025-11-11-n1pwo#faq" class="footer-link text-sm">FAQ</a></li>
+                        <li><a href="https://staceyreid01-hub.github.io/hulu-com-activate-code-2025-11-11-n1pwo#testimonials" class="footer-link text-sm">Testimonials</a></li>
+                    </ul>
+                </div>
+
+                <!-- Legal -->
+                <div class="space-y-4">
+                    <h3 class="font-semibold heading-style">Legal</h3>
+                    <ul class="space-y-2">
+                        <li><a href="privacy.html" class="footer-link text-sm">Privacy Policy</a></li>
+                        <li><a href="terms.html" class="footer-link text-sm">Terms of Service</a></li>
+                        <li><a href="#" class="footer-link text-sm">Disclaimer</a></li>
+                    </ul>
+                </div>
+
+                <!-- Contact -->
+                <div class="space-y-4">
+                    <h3 class="font-semibold heading-style">Contact</h3>
+                    <ul class="space-y-2">
+                        <li><a href="mailto:huluactivate@gmail.com" class="footer-link text-sm">huluactivate@gmail.com</a></li>
+                        <li class="text-sm body-text text-gray-600">Available 24/7 for support</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Social Links -->
+            <div class="border-t border-gray-200 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
+                <div class="flex items-center gap-4">
+                    <a href="#" class="text-gray-600 hover:text-blue-600 smooth-transition" aria-label="Facebook">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="#" class="text-gray-600 hover:text-blue-600 smooth-transition" aria-label="Twitter">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    <a href="#" class="text-gray-600 hover:text-blue-600 smooth-transition" aria-label="Instagram">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="#" class="text-gray-600 hover:text-blue-600 smooth-transition" aria-label="YouTube">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                </div>
+                <p class="body-text text-gray-600 text-sm text-center md:text-right">
+                    &copy; 2025 Hulu Activation Guide. All rights reserved.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript for Interactive Features -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Mobile Menu Toggle
+            const mobileMenuButton = document.querySelector('header nav .mobile-menu-button');
+            const mobileMenu = document.querySelector('header nav .mobile-menu');
+            
+            if (mobileMenuButton && mobileMenu) {
+                mobileMenuButton.addEventListener('click', () => {
+                    mobileMenu.classList.toggle('hidden');
+                    const icon = mobileMenuButton.querySelector('i');
+                    if (icon) {
+                        icon.classList.toggle('fa-bars');
+                        icon.classList.toggle('fa-times');
+                    }
+                });
+
+                const mobileMenuLinks = mobileMenu.querySelectorAll('a');
+                mobileMenuLinks.forEach(link => {
+                    link.addEventListener('click', () => {
+                        mobileMenu.classList.add('hidden');
+                        const icon = mobileMenuButton.querySelector('i');
+                        if (icon) {
+                            icon.classList.remove('fa-times');
+                            icon.classList.add('fa-bars');
+                        }
+                    });
+                });
+            }
+
+            // Smooth Scroll for Anchor Links
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function(e) {
+                    const href = this.getAttribute('href');
+                    if (href !== '#' && href.length > 1) {
+                        e.preventDefault();
+                        const target = document.querySelector(href);
+                        if (target) {
+                            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        }
+                    }
+                });
+            });
+
+            // Newsletter Form
+            const newsletterForm = document.querySelector('form');
+            if (newsletterForm) {
+                newsletterForm.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    const email = this.querySelector('input[type="email"]').value;
+                    if (email) {
+                        alert('Thank you for subscribing! Check your email for confirmation.');
+                        this.reset();
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>
